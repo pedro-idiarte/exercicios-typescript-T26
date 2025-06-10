@@ -18,11 +18,11 @@ Escreva algum código para determinar se um número é um número Armstrong. Pen
 
 ## Retorna mensagem de sucesso quando o numero for de Armstrong
 
-* Identifica "3" corretamente, responendo "Este eh um numero de Armstrong!"
-* Identifica "153" corretamente, responendo "Este eh um numero de Armstrong!"
+* Identifica "3" corretamente, responendo "Este é um numero de Armstrong!"
+* Identifica "153" corretamente, responendo "Este é um numero de Armstrong!"
 
 ## Retorna mensagem de aviso quando o numero NAO for de Armstrong
 
-* Identifica "10" corretamente, responendo "Este nao eh um numero de Armstrong!"
-* Identifica "154" corretamente, responendo "Este nao eh um numero de Armstrong!"
+* Identifica "10" corretamente, responendo "Este não é um numero de Armstrong!"
+* Identifica "154" corretamente, responendo "Este não é um numero de Armstrong!"
 

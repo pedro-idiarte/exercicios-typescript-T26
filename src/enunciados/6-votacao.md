@@ -2,7 +2,7 @@
 
 O problema:
 
-Implemente o método aouraVotacao, que recebe como argumento um array com os votos de uma certa eleição, em valores numéricos, podendo ser `1`, `2` ou `3`. 
+Implemente o método apuraVotacao, que recebe como argumento um array com os votos de uma certa eleição, em valores numéricos, podendo ser `1`, `2` ou `3`. 
 
 Caso haja mais votos `1`, retorne a string `Vencedor: 1`.
 
@@ -10,7 +10,7 @@ Caso haja mais votos `2`, retorne a string `Vencedor: 2`.
 
 Caso haja mais votos `3`, retorne a string `Vencedor: 3`.
 
-Caso haja empate, retorne a string `Empate`. 
+Caso haja empate entre dois ou mais candidatos, retorne a string `Empate`. 
 
 Dica: podemos percorrer um array em javascript usando um `for` ou `foreach`.
 

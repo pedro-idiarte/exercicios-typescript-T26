@@ -1,4 +1,9 @@
 function criaObjeto(data: string) {
-    return null;
+    const partes = data.split("/");
+    return {      
+        dia: partes[0],
+        mes: partes[1],
+        ano: partes[2] 
+    };
 }
 module.exports = criaObjeto;
